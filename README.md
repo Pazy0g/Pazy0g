@@ -8,7 +8,8 @@
 
 
 <h2 align="center">
-Vocation à devenir développeur 💻
+Vocation à devenir développeur 💻</br>
+###Etudiant Kercode
 </h2> 
 
 
@@ -17,7 +18,7 @@ Vocation à devenir développeur 💻
 <a href="https://www.linkedin.com/in/renotewen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 </br>
-Etudiant Kercode
+
 ## 🔭 Sur quoi je travaille actuellement:
 
 - Maquette d'entrainement
