@@ -9,9 +9,10 @@
 
 <h2 align="center">
 Vocation à devenir développeur 💻</br>
+Etudiant Kercode
 
 </h2> 
-<h3>Etudiant Kercode</h3>
+
 
 ### 🤝 Réseaux:
 
