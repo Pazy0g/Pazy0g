@@ -17,13 +17,13 @@ Vocation à devenir développeur 💻
 <a href="https://www.linkedin.com/in/renotewen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 </br>
-
+Etudiant Kercode
 ## 🔭 Sur quoi je travaille actuellement:
 
-- Préparation d'entrée à Kercode
 - Maquette d'entrainement
 - HTML5
 - CSS
+- GIT, GIT HUB
 
 
 ## 💻Skills
