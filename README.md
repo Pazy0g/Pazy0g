@@ -22,7 +22,6 @@ Etudiant Kercode
 
 ## 🔭 Sur quoi je travaille actuellement:
 
-- Maquette d'entrainement
 - HTML5
 - CSS
 - GIT, GIT HUB
@@ -38,6 +37,7 @@ Etudiant Kercode
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)
 </br>
 
 ## 📈 GitHub Stats 
