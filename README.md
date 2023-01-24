@@ -26,6 +26,9 @@ Etudiant Kercode
 - HTML5
 - CSS
 - GIT, GIT HUB
+- JavaScript
+- PHP
+- MySQL
 
 
 ## 💻Skills
