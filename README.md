@@ -16,7 +16,7 @@ Etudiant Kercode
 
 ### 🤝 Réseaux:
 
-<a href="https://www.linkedin.com/in/renotewen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pazy0g)](https://git.io/streak-stats)
 
 </br>
 
