@@ -30,7 +30,7 @@ Etudiant Kercode
 - MySQL
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pazy0g)](https://github.com/pazy0g)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pazy0g)](https://github.com/Pazy0g?tab=repositories)
 
 
 </br>
