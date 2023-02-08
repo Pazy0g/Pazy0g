@@ -30,9 +30,8 @@ Etudiant Kercode
 - MySQL
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazy0g)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pazy0g&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy
 
-.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)
 
 </br>
 
