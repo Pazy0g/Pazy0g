@@ -14,8 +14,6 @@ Etudiant Kercode
 </h2> 
 
 
-### 🤝 Réseaux:
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pazy0g)](https://git.io/streak-stats)
 
 </br>
@@ -28,10 +26,6 @@ Etudiant Kercode
 - JavaScript
 - PHP
 - MySQL
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pazy0g)](https://github.com/Pazy0g?tab=repositories)
-
 
 </br>
 
