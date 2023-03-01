@@ -14,7 +14,7 @@ Etudiant Kercode
 </h2> 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pazy0g)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pazy0g&theme=tokyonight-duo&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
 </br>
 
