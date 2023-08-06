@@ -26,6 +26,7 @@ Etudiant Kercode
 - JavaScript
 - PHP
 - MySQL
+- Acttually learning React [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
 
 </br>
 
