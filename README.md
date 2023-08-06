@@ -1,8 +1,4 @@
 
-
-
-![Blue Minimalist Anime Housing Quotes Desktop Wallpaper (1)](https://user-images.githubusercontent.com/107175527/177515064-06a3f1b7-a0c6-422b-a5a8-c6eccb680604.png)
-
 ### HEY !👋
 
 
