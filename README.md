@@ -26,7 +26,7 @@ Etudiant ISCOD
 - JavaScript
 - PHP
 - MySQL
-- Actually learning React ![images]https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+- Actually learning React ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 </br>
 
