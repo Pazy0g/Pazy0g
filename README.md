@@ -31,6 +31,7 @@ Etudiant ISCOD
 # My works
 
 New uploads coming soon on my repos
+[Repository](https://github.com/Pazy0g?tab=repositories)
 
 ## 📈 GitHub Stats 
 
