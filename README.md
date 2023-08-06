@@ -8,8 +8,8 @@
 
 
 <h2 align="center">
-Vocation à devenir développeur 💻</br>
-Etudiant Kercode
+A wannabe dev 💻</br>
+Etudiant ISCOD
 
 </h2> 
 
@@ -18,7 +18,7 @@ Etudiant Kercode
 
 </br>
 
-## 🔭 Sur quoi je travaille actuellement:
+## 🔭 What am i working on ?:
 
 - HTML5
 - CSS
@@ -26,7 +26,7 @@ Etudiant Kercode
 - JavaScript
 - PHP
 - MySQL
-- Acttually learning React [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg)
+- Actually learning React ![images]https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
 </br>
 
